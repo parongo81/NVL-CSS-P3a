@@ -1,0 +1,93 @@
+
+body{
+	background-color: black;
+	color:red;
+}
+
+#cabecera{
+	background-color: #FF3342;
+	font-size: 40px;
+	text-align: center;
+	color:black;
+}
+
+#cuerpo{
+	padding: 0 10px 10px 10px;
+	margin-bottom: 10px;
+}
+.img-cuerpo{
+	margin: 15px 15px 0 15px;
+	float: left;
+	padding-right: 10px;
+}
+
+.img-cabecera img{
+	float: left;
+	position: relative; left: 111.5px
+
+}
+.sabias{
+	background-color: red;
+	color: black;
+	margin-left: 35%;
+
+}
+#sabias{
+	color: black;
+	background-color: red;
+	margin-left: 50%;
+	margin-right: 10%;
+	padding: 16.3px;
+}
+
+h2.subtitulo{
+	font-style: italic;
+	font-size: 35px;
+}
+
+#cuerpo h2{
+	background-color: black;
+	margin: 5px
+
+}
+.img-historia{
+	background-color: red;
+	padding: 25px 0 0 95px;
+	position: relative; bottom: 15px;
+}
+.blockquote{
+	color:black;
+	font-size: 14px;
+	margin: 0px 120px 30px 1050px
+
+}
+.blockquote span{
+	font-weight: bold;	
+	
+}
+.img-historia img{
+	float: left;
+}
+
+
+#img-ciudad{
+	float: left;
+	margin: 0 25px 30px 0;
+}
+
+.lista li{
+	padding-right: 20px;
+}
+
+.footer{
+	background-color: red;
+	padding:5px;
+	color: black;
+	margin-top: 30px;
+	text-align: center;
+}
+span{
+	font-style: italic;
+}
+
+

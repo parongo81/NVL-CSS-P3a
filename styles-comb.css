@@ -1,0 +1,31 @@
+
+.subtitulo{
+	font-size: 40px;
+	text-align: center;
+	font-family: verdana;	
+}
+
+#sabias{
+	background-color: #FDEDEC;
+	width: 1120px;
+	font-family: cursive;
+	float: right;
+	padding: 14px 32px;
+}
+
+#img-ciudad{
+	float: left;
+	padding: 0 40px;
+}
+
+ul li{
+	height: 50px;
+}
+
+#footer{
+	background-color: #CC3300;
+	text-align: center;
+	margin-top: 30px;
+	padding: 12px 0;
+	font-family: verdana;
+}
