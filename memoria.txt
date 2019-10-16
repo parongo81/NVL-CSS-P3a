@@ -1,0 +1,29 @@
+NVL-CSS-P3a
+
+En la primer archivo codifico HTML y CSS en dos arcvivos diferentes (externo), consta de un encabezado con el titulo, donde lo primero que hago es cambiar el color de fondo con background y todo el texto de la pagina desde el body, después para resaltar el titulo, codifico este con background a contraste, centro el texto y le cambio el color además de darle mayor tamaño , para que llame mas la atención. Ahora tenemos un contenedor <div> que consta del subtitulo, una imagen y cuatro parrafos, en el que la idea es bordear la imagen con el texto de los parrafos, esto lo consigo con la propiedad FLOAT; LEFT:, e insertando la imagen justo debaji del subtitulo y encima de los párrafos, asi consigo que los parrafos se alineen a la derecha de la imagen,quedando el subtitulo arriba, flotando la imagen la izquierda, ademas le doy un PADDING igual a los lados y arriba con 0 pixeles abajo, para que texto no esté sobre la imagen, por debajo de lo doy un MARGIN. Todos los subtitulos tienen una identificador común de tipo CLASS en el que que les doy un tamaño FONT-SIZE y un estilo de fuente FONT-STYLE común tambien. 
+
+Después tenemos una imagen con un texto dentro de una caja con color a contraste con el fondo alienados al cetro y  flotando la imagen con  FLOAT y moviendola despues a la derecha con la propiedad POSITION; RELATIVE; hasta quedar junto al la caja que genera el BACKGROUND del texto al que le doy un margen esta vez en porcentaje para conseguir el efecto deseado.
+
+Ahora nos encontramos después de otro subtitulo con cuatro pequeños párrafos y debajo de estos dos imagenes en linea con una cita <blockquote> a la derecha todo este conjunto dentro de una caja a contraste con el fondo, le agrego un FLOAT a als imagenes para que la cita, a al que le reduzco el tamaño de fuente para que entre en el hueco dejando libres los bordes igual que las imagenes, les añado un PADDING.
+
+En la ultima parte y después de otro subtitulo tenemos otra imagen flotada a la izquiera con con parrafo y una lista <ul> a su derecha, a al iamgen debo ajustar el PADDING para que los puntos de cada elemento de la lista no queden dentro de la misma.
+
+Por último el footer al que alineo el texto al centro ,la doy un BACKGROUND a contraste, cambiando el color de la fuente al que le doy un MARGIN-TOP, para separarlo de la seccion anterior y un pequeño PADDING.
+
+Para la practica de CSS inline, inserto el mismo codigo CSS etiqute a etiqueta en el codigo HTML mediente el atributo "STYLE" consiguiendo el mismo resultado.
+
+Para la practica de CSS interno , inserto el codigo CSS dentro del <HEAD> con el tag <STYLE>, consiguiendo también el mismo efecto que las anteriores.
+
+En la ultima paractica donde debo combinar los distintos estilos, cambio el diseño y por consiguiente todo el código.
+
+En este caso procedo de la siguiente manera:
+
+De forma inline cambio el color de fondo de todo el archivo en el <body> y doy estilo a tres imagenes, flotando una de ellas, de forma interna doy estilo a la cabecera proporcionandole un mayor tamaño y flotando (FLOAT) el texto al la izquieda para poner la imagen a su derecha ajusto el ancho y el alto de los dos elementos y le doy un BACKGROUND a contrate con el fondo que cabie de manera inline, tambien floto otra imagen a la derecha que junto con la que ya floté de manera inline, proporcionadolas unos MARGIN laterales y un borde exterior quedarán completamwnte integradas en el texto.
+
+De manrean externa doy estilo a los subtitulos class="subtitulos" dandoles mayor tamaño, alineandolos al centro y cambiando el estilo de fuente,  tambien al id"sabias" que integra un subtitulo y 2 parrafos que flotandolos a la derecha los pongo en la misma linea que  la imagen,  despues le doy un background que mediante el padding y el ancho (width) los alineo perfectamente con la misma. La siguiente seccion  consta de 2 párrafos y una lista <ul> , ñl inserto la imagen justo entre los dos parrafos y la floto a la izquierda,  le doy un padding arriba y abajo y con ello consigo dejar arriba el primer parrafo y en la misma linea de la imagen el segundo parrafo y la lista, cambiando la altura (height) de los elementos de la lista, ajusto esta al altura de la imagen.
+El footer le doy un background del color al de la cabecera un padding para ensanchar el mismo un margen por arriba para separlo de la seccion anterio y centrando el texto y cambiando el estilo de fuente acabo.
+
+
+	
+
+
